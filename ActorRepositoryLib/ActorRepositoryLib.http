@@ -1,0 +1,6 @@
+@ActorRepositoryLib_HostAddress = http://localhost:5053
+
+GET {{ActorRepositoryLib_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
